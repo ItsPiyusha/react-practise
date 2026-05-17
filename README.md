@@ -3,7 +3,7 @@
 
 ## Day 1 — Counter App
 
-### Session Time
+## Session Time
 **9:30 PM – 10:30 PM**
 
 ---
