@@ -1,4 +1,4 @@
-````md
+
 # React Practice Log
 
 ## Day 1 — Counter App
