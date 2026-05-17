@@ -74,5 +74,3 @@
 * Learn component reuse
 * Explore Tailwind CSS later
 
-```
-```
