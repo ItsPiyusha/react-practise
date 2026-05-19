@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # React Practice Log
 
 ## Day 1 — Counter App
@@ -75,7 +73,7 @@
 * Learn component reuse
 * Explore Tailwind CSS later
 
-=======
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -149,4 +147,3 @@ export default defineConfig([
   },
 ])
 ```
->>>>>>> 811f8e7 (Logged all and files, learnings in readme)
